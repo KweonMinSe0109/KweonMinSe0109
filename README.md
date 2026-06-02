@@ -9,11 +9,11 @@
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71,50:5B86E5,100:36D1DC&height=250&section=header&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20Minse%20Kweon&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" 
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71%2C50:5B86E5%2C100:36D1DC&height=250&section=header&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20Minse%20Kweon&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" 
   />
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71,50:5B86E5,100:36D1DC&height=250&section=header&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20Minse%20Kweon&fontSize=46&fontColor=111111&fontAlignY=38&animation=fadeIn" 
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71%2C50:5B86E5%2C100:36D1DC&height=250&section=header&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20Minse%20Kweon&fontSize=46&fontColor=111111&fontAlignY=38&animation=fadeIn" 
   />
   <img 
     width="100%" 
@@ -46,6 +46,7 @@
 </p>
 
 </div>
+
 
 ---
 
