@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=36D1DC&center=true&vCenter=true&width=650&lines=AI+Agent+%26+Backend+Developer;LLM+%C2%B7+RAG+%C2%B7+sLLM;Django+%C2%B7+FastAPI+%C2%B7+Qdrant+%C2%B7+RunPod" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=5B86E5&center=true&vCenter=true&width=650&lines=AI+Agent+%26+Backend+Developer;LLM+%C2%B7+RAG+%C2%B7+sLLM;Django+%C2%B7+FastAPI+%C2%B7+Qdrant+%C2%B7+RunPod" alt="Typing SVG" />
 
 <br/>
 
@@ -35,11 +35,39 @@ Django와 FastAPI를 활용한 **백엔드 기반 AI 서비스 구조**를 학�
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KweonMinSe0109&theme=tokyonight&hide_border=true" width="520"/>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=KweonMinSe0109&theme=tokyonight&hide_border=true" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=KweonMinSe0109&theme=default&hide_border=true" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KweonMinSe0109&theme=default&hide_border=true" 
+    width="520" 
+    alt="GitHub Streak" 
+  />
+</picture>
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/KweonMinSe0109/KweonMinSe0109/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph"/>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/KweonMinSe0109/KweonMinSe0109/output/github-contribution-grid-snake-dark.svg" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/KweonMinSe0109/KweonMinSe0109/output/github-contribution-grid-snake.svg" 
+  />
+  <img 
+    width="100%" 
+    src="https://raw.githubusercontent.com/KweonMinSe0109/KweonMinSe0109/output/github-contribution-grid-snake.svg" 
+    alt="GitHub Contribution Graph" 
+  />
+</picture>
 
 </div>
 
