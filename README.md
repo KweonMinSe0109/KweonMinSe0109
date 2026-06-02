@@ -6,11 +6,38 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71,50:5B86E5,100:36D1DC&height=250&section=header&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20Minse%20Kweon&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71,50:5B86E5,100:36D1DC&height=250&section=header&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20Minse%20Kweon&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71,50:5B86E5,100:36D1DC&height=250&section=header&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20Minse%20Kweon&fontSize=46&fontColor=111111&fontAlignY=38&animation=fadeIn" 
+  />
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71,50:5B86E5,100:36D1DC&height=250&section=header&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20Minse%20Kweon&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" 
+    alt="Header Banner" 
+  />
+</picture>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=5B86E5&center=true&vCenter=true&width=650&lines=AI+Agent+%26+Backend+Developer;LLM+%C2%B7+RAG+%C2%B7+sLLM;Django+%C2%B7+FastAPI+%C2%B7+Qdrant+%C2%B7+RunPod" alt="Typing SVG" />
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=36D1DC&center=true&vCenter=true&width=650&lines=AI+Agent+%26+Backend+Developer;LLM+%C2%B7+RAG+%C2%B7+sLLM;Django+%C2%B7+FastAPI+%C2%B7+Qdrant+%C2%B7+RunPod" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=111111&center=true&vCenter=true&width=650&lines=AI+Agent+%26+Backend+Developer;LLM+%C2%B7+RAG+%C2%B7+sLLM;Django+%C2%B7+FastAPI+%C2%B7+Qdrant+%C2%B7+RunPod" 
+  />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=36D1DC&center=true&vCenter=true&width=650&lines=AI+Agent+%26+Backend+Developer;LLM+%C2%B7+RAG+%C2%B7+sLLM;Django+%C2%B7+FastAPI+%C2%B7+Qdrant+%C2%B7+RunPod" 
+    alt="Typing SVG" 
+  />
+</picture>
 
 <br/>
 
