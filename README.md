@@ -1,16 +1,217 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KweonMinSe0109/KweonMinSe0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🖐️Hello%2C%20I%27m%20Minse%20Kweon&fontSize=38&fontAlignY=38&animation=fadeIn"/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI Agent & Backend Developer
+
+**LLM · RAG · sLLM · Backend · Data/ML**
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+안녕하세요. 저는 **AI Agent, LLM, RAG 기반 서비스 개발**에 관심을 가지고 성장하고 있는 개발자입니다.
+
+Django와 FastAPI를 활용한 **백엔드 기반 AI 서비스 구조**를 학습하고 있으며,  
+현재는 **sLLM 기반 기업 문서 자동화 플랫폼 ALPLED** 프로젝트를 진행하고 있습니다.
+
+
+<br/>
+
+- 🎓 Computer Science Student at **Soongsil University**
+- 🤖 Interested in **AI Agent, LLM, RAG, Fine-tuning, Prompt Engineering**
+- 🛠️ Building AI services with **Django, FastAPI, Qdrant, RunPod**
+- 📊 Experienced in **Machine Learning, EDA, Feature Engineering, Model Evaluation**
+- 🚀 Currently learning and building backend-based AI services
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / LLM / RAG
+
+<p>
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LoRA-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning-DC143C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=for-the-badge"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
+</p>
+
+### 📊 Data / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge"/>
+</p>
+
+### 🗄️ Database / Vector DB
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+</p>
+
+### ☁️ Infra / DevOps / Tools
+
+<p>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RunPod-6C3BF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### 💻 Frontend / Other Languages
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KweonMinSe0109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KweonMinSe0109&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KweonMinSe0109&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Project Experience
+
+### 🔹 ALPLED  
+**AI-dLc Platform for sLLM Enterprise Documentation**
+
+sLLM, RAG, AI Agent 기반으로 기업 문서 자동화를 지원하는 플랫폼 프로젝트입니다.
+
+- RFP와 회의록 기반 요구사항 정의서 생성 구조 설계
+- 요구사항 정의서 JSON과 프로토타입 이미지를 활용한 사용자 인터페이스 설계서 생성 구조 설계
+- Django Web App Server와 FastAPI AI Agent Server 분리 구조 설계
+- Qdrant Vector DB 기반 RAG 검색 구조 적용
+- RunPod GPU 환경 기반 sLLM 추론 구조 설계
+- Hugging Face 기반 모델 관리 및 LoRA Fine-tuning 데이터 활용
+
+**Tech Stack**  
+`Django` `FastAPI` `AWS EC2` `AWS RDS` `AWS S3` `RunPod` `Qdrant` `Hugging Face` `sLLM` `RAG`
+
+<br/>
+
+### 🔹 Viva la Visa  
+**AI-based Study Abroad & F-1 Visa Interview Helper Chatbot**
+
+미국 유학 준비생을 위해 분산된 대학 입시 정보를 통합 제공하고,  
+F-1 비자 인터뷰를 연습할 수 있도록 지원하는 **RAG 기반 멀티 에이전트 챗봇** 프로젝트입니다.
+
+- 미국 주요 대학 입학 정보 및 비자 인터뷰 관련 데이터를 수집·전처리
+- Playwright 기반 웹 데이터 수집 후 LLM을 활용한 JSON 구조화
+- MySQL 기반 RDB를 구축하여 학교 정보, 입학 정보, 요구사항, FAQ 데이터 관리
+- Hugging Face F1 Visa Interview Dataset을 활용한 RAG용 Q&A 데이터 구성
+- BAAI/bge-m3 임베딩 모델과 ChromaDB 기반 벡터 검색 구조 적용
+- LangChain, LangGraph 기반 멀티 에이전트 워크플로우 설계
+- Ollama 기반 로컬 sLLM을 활용하여 개인정보 보호 중심의 답변 생성 구조 설계
+- 입시지원 챗봇과 비자 모의면접 챗봇 기능 구현
+- STT, TTS를 활용한 비자 인터뷰 음성 평가 기능 개선 시도
+
+**Tech Stack**  
+`Python` `MySQL` `Pandas` `Playwright` `LangChain` `LangGraph` `ChromaDB` `BAAI/bge-m3` `Ollama` `Gemma3` `Hugging Face` `Streamlit` `RAG` `Multi-Agent`
+
+**Repository**  
+[visa_interview_helper](https://github.com/ka-ng-ka-ng/visa_interview_helper)
+
+---
+
+## 🎓 Education
+
+- **Soongsil University**  
+  Department of Computer Science  
+  `Mar. 2021 - Present`
+
+---
+
+## 🧑‍🏫 Training
+
+- **SKN24 Family AI Camp**  
+  AI / Machine Learning / Deep Learning / LLM / RAG / Backend-based AI Service Development
+
+---
+
+## 🏅 Certifications
+
+- 정보처리기능사
+- 컴퓨터활용능력 2급
+
+---
+
+## 📌 Areas of Interest
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agent-7B68EE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLM-412991?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/sLLM-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning-DC143C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend-092E20?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/KweonMinSe0109/KweonMinSe0109/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:keric0109@gmail.com">
+  <img src="https://img.shields.io/badge/Email-keric0109%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KweonMinSe0109">
+  <img src="https://img.shields.io/badge/GitHub-KweonMinSe0109-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
