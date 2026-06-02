@@ -39,12 +39,6 @@
   />
 </picture>
 
-<br/>
-
-<p>
-  <b>LLM</b> · <b>RAG</b> · <b>sLLM</b> · <b>FastAPI</b> · <b>Django</b> · <b>Data/ML</b>
-</p>
-
 </div>
 
 
